@@ -78,7 +78,7 @@ Imports:
     rstudioapi
 Remotes:
     mcguinlu/robvis,
-    elizagrames/litsearchr,
+    elizagrames/litsearchr@main,
     tidymodels/broom,
     malcolmbarrett/tidymeta,
     wviechtb/metadat,
